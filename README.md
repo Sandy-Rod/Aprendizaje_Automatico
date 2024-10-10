@@ -1,1 +1,1 @@
-# Aprendizaje automatico y visualizacion
+# Aprendizaje automático y visualización
